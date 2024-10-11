@@ -1,4 +1,4 @@
----
+praymond330@gmail.com
 title: Verifying your email address
 intro: 'Verifying your primary email address ensures strengthened security, allows {% data variables.product.prodname_dotcom %} staff to better assist you if you forget your password, and gives you access to more features on {% data variables.product.prodname_dotcom %}.'
 redirect_from:
@@ -47,7 +47,7 @@ If you do not verify your email address, you will not be able to:
 
 ## About email verification{% ifversion ghec %} for {% data variables.enterprise.prodname_managed_users %}{% endif %}
 
-If you are a member of an {% data variables.enterprise.prodname_emu_enterprise %}, your email address is considered unverified if it is used as a verified email by another account on {% data variables.product.prodname_dotcom %}. To verify the email, you will need to unverify the email address for the other account, then verify it for your {% data variables.enterprise.prodname_managed_user %}. See "[AUTOTITLE](/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/changing-your-primary-email-address)."
+If you are a member of an {% data variables.enterprise.prodname_emu_enterprise %}, your email address is considered unverified if it is used as a verified email by another account on {% data variables.product.prodname_dotcom %}. To verify the email, you will need to unverify the email address for the other account, then verify it for your {% data variables.enterprise.prodname_managed_user %}. See "
 
 Having an unverified email address does not affect most actions you can take on {% data variables.product.prodname_dotcom %}. However, it may prevent you from accessing some third-party {% data variables.product.prodname_github_apps %} and {% data variables.product.prodname_oauth_apps %}.
 
@@ -70,7 +70,7 @@ Having an unverified email address does not affect most actions you can take on 
 
 ### Error page after clicking verification link
 
-The verification link expires after 24 hours. If you don't verify your email within 24 hours, you can request another email verification link. For more information, see "[AUTOTITLE](/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/verifying-your-email-address#verifying-your-email-address)."
+The verification link expires after 24 hours. If you don't verify your email within 24 hours, you can request another email verification link. For more information, see "[."
 
 If you click on the link in the confirmation email within 24 hours and you are directed to an error page, you should ensure that you're signed into the correct account on {% data variables.product.github %}.
 
